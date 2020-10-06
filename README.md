@@ -1,5 +1,15 @@
 # paly with adb
 
+## intro
+
+this repo is my notes on testing android (I use op6) with adb...
+
+* [x] capture traffic with tcpdump & wireshark
+* [x] twitter
+  * [x] scroll tweets and visit people's profile
+  * [x] send a tweet
+* [ ] facebook
+
 ## setup your env
 
 * get [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
